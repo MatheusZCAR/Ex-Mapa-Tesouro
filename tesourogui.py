@@ -1,3 +1,10 @@
+# TRABALHO REALIZADO POR
+# Diogo Nascimento Bertozi - RA: 20150157
+# Felipe Yabiko Nogueira - RA: 22002265
+# Henrique Ladeira Alves - RA: 23016926
+# João Victor Rokemback Tapparo - RA: 22003236
+# Matheus Zanon Caritá - RA: 22014203
+
 import numpy as np
 import random as ran
 import tkinter as tk
