@@ -88,11 +88,11 @@ def mover_aleatorio():
         escolhido = ran.choice(opcoes)
         if escolhido == 1:
             mover_personagem("baixo")
-        elif escolhido == 2:
+        if escolhido == 2:
             mover_personagem("cima")
-        elif escolhido == 3:
+        if escolhido == 3:
             mover_personagem("direita")
-        elif escolhido == 4:
+        if escolhido == 4:
             mover_personagem("esquerda")
 
 desenhar_labirinto()
